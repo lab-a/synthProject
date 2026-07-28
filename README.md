@@ -31,7 +31,7 @@ Esta separación permite mantener desacoplada la lógica de procesamiento de aud
 
 > **Funcionamiento del sintetizador**
 
-**![GIF modificando parámetros y mostrando el visualizador](/sampleSynth.mp4)**
+**![GIF modificando parámetros y mostrando el visualizador](/sampleSynth.gif)**
 
 ## Tecnologías utilizadas
 
