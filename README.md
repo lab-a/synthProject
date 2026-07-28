@@ -27,11 +27,11 @@ Esta separación permite mantener desacoplada la lógica de procesamiento de aud
 
 > **Interfaz principal**
 
-**[Imagen de la interfaz]**
+**![Imagen de la interfaz](/synthUI.jpg)**
 
 > **Funcionamiento del sintetizador**
 
-**[GIF modificando parámetros y mostrando el visualizador]**
+**![GIF modificando parámetros y mostrando el visualizador](/sampleSynth.mp4)**
 
 ## Tecnologías utilizadas
 
